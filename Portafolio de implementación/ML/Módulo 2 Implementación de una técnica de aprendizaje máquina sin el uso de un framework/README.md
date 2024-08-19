@@ -1,2 +1,2 @@
-Workbook Jupyter con procedimiento: Vallhala.ipynb
-Documento PDF: Vallhala.pdf
+Workbook Jupyter con procedimiento: Vallhalla.ipynb
+Documento PDF: Valhalla.pdf
